@@ -1,0 +1,56 @@
+.columna-informativa {
+  float: left;
+  width: 20%;
+  padding: 176px; /* Nuevo valor de padding */
+  box-sizing: border-box;
+  background-color: rgb(113, 34, 241); /* Color de fondo del relleno */;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:rgb(255, 255, 255);
+ 
+  
+}
+.columna-informativa .texto {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float:center;
+    font-size: 19px;
+}
+.columna-informativa .texto2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: center;
+    font-size: 18px;
+}
+.columna-principal .titulo1 {
+    background-color: rgba(255, 255, 255, 0.568);
+    padding: 16px;
+    box-sizing: border-box;
+    color:rgb(57, 0, 104);
+    text-align:left;
+    font-size: 19px;
+
+}
+.columna-principal {
+    float: right;
+    width: 80%;
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: rgb(159, 199, 201);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(23, 23, 59);
+    border-style: solid;
+    border-color: rgb(113, 34, 241);
+    border-width: 20px;
+}
+.columna-principal .textito {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(23, 23, 59);
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 10px;
+}
+.columna-principal .enumerar1 {
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
